@@ -1,0 +1,6 @@
+streamlit
+control
+sympy
+graphviz
+matplotlib
+numpy
